@@ -1,0 +1,10 @@
+План за действие:
+Website
+    -Shared login page
+    -Moderation pages
+    -Workers page
+    -Patients page
+
+Class Account
+Moderator, User
+
